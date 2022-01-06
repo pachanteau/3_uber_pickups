@@ -1,6 +1,5 @@
-### 3_uber_pickups
 
-### PROJECTS Unsupervised Machine Learning
+### PROJECT Unsupervised Machine Learning
 
 
 ## Uber Pickups
